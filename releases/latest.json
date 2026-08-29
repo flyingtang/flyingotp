@@ -1,10 +1,10 @@
 {
   "version": "0.1.0",
   "notes": "FlyingOTP 0.1.0 — see release notes on Gitee/GitHub.",
-  "pub_date": "2026-08-29T13:18:19.540Z",
+  "pub_date": "2026-08-29T13:37:00.566Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3I3Q2s1V2dkRko5UnVxaC82T3l3ektTUWNzd1Ztc0VmY1U1MlVWRjRFS1ZzSHhzUkpkU05vMDh4OVU5NEZkQ0JPKzBtUHFndCtzeWxhbjZpN2xFUEdnMlV5MnF5RmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDA5NDk5CWZpbGU6Rmx5aW5nT1RQXzAuMS4wX3g2NC1zZXR1cC5leGUKQ0lGcU4vSlV0ZmMxUmJIelZ3N3E3KzRsbUNQRTVhNXJITTUxWnAwOFA2SXZQTEJheHJSRGpla2dyNy91YmhNaXN5NllzNDlyZzRkbXRYUUgwbE9GQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3I3Q2s1V2dkRkU3VVhWUnB4bkNCdm1ZdWVPbUJtdmI0UzF6QjdUbWNTUXFnc2E0clBmV0FiaUVGQkJ4S1FETnhoSDRzdW1URWR4b2xEQ3NyMEZId3kvOXdpajFjL2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDEwNjIwCWZpbGU6Rmx5aW5nT1RQXzAuMS4wX3g2NC1zZXR1cC5leGUKNzJxTFIzcTh5c0ppa2FGOVRnV0tWdGs2WTBLR282RTJ6WW0wUS9RMkRValZEQnZVS3BrLy9XcVhONktycXN2RWhIejVHQldaaDRlWXA3NG0yUVd5RFE9PQo=",
       "url": "https://gitee.com/flyingtang/flyingotp/releases/download/v0.1.0/FlyingOTP_0.1.0_x64-setup.exe"
     }
   }
